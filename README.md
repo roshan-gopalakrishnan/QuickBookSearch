@@ -1,11 +1,7 @@
 # QuickBookSearch
 Quick Book Search (QBS) is a chatbot built for querying PDF textbooks for students. It is powered by NVIDIA-NIM and LangChain.
 
-![alt text](https://github.com/roshan-gopalakrishnan/QuickBookSearch/streamlit_app.png
-
-![streamlit_app](https://github.com/roshan-gopalakrishnan/QuickBookSearch/assets/11881776/40e91d60-89fc-4bd6-8bbb-a7052592d941)
-
-
+![streamlit_app](https://github.com/roshan-gopalakrishnan/QuickBookSearch/blob/main/streamlit_app.png)
 
 Follow the steps below to use this repo.
 
