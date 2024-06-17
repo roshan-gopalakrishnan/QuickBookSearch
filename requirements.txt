@@ -1,0 +1,13 @@
+accelerate
+faiss-cpu>=1.7,<2
+gradio_client==0.5.0
+langchain==0.0.249
+langchain_nvidia_ai_endpoints
+langchain_community
+langchain_core
+openai
+pypdf>=3.8,<4
+pydantic==1.10.11
+sentence_transformers
+streamlit
+streamlit_extras
